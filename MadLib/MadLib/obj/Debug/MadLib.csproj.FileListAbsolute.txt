@@ -1,0 +1,7 @@
+C:\Users\kohn_charles\Desktop\Intro to C#\MadLib\MadLib\obj\Debug\MadLib.csproj.AssemblyReference.cache
+C:\Users\kohn_charles\Desktop\Intro to C#\MadLib\MadLib\obj\Debug\MadLib.csproj.CoreCompileInputs.cache
+C:\Users\kohn_charles\Desktop\Intro to C#\MadLib\MadLib\bin\Debug\MadLib.exe.config
+C:\Users\kohn_charles\Desktop\Intro to C#\MadLib\MadLib\bin\Debug\MadLib.exe
+C:\Users\kohn_charles\Desktop\Intro to C#\MadLib\MadLib\bin\Debug\MadLib.pdb
+C:\Users\kohn_charles\Desktop\Intro to C#\MadLib\MadLib\obj\Debug\MadLib.exe
+C:\Users\kohn_charles\Desktop\Intro to C#\MadLib\MadLib\obj\Debug\MadLib.pdb
